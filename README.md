@@ -1,7 +1,8 @@
 # demo
 <!DOCTYPEhtml>
 <html>
-<head>
+<head
+  <meta charset='UTF-8'>
   <title>Pretty</title>
 </head>
 <body>
